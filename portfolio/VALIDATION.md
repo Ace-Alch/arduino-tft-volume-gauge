@@ -1,0 +1,27 @@
+# Arduino TFT Volume Gauge: validation
+
+## Current evidence
+
+This documentation update inspected available text and file inventories. It did not execute the project, simulate a model or test hardware. Existing recorded results must be cited with their original conditions.
+
+## Proposed checks
+
+These are test plans. No row below is marked as passed.
+
+| Check | Action | Evidence to retain | Status |
+| :-- | :-- | :-- | :-- |
+| V01: Potentiometer | Inspect the relevant artifact and run one normal case plus one boundary case. | Source revision, inputs, expected result, observed result and log or image. | Not run |
+| V02: Analog sampling | Inspect the relevant artifact and run one normal case plus one boundary case. | Source revision, inputs, expected result, observed result and log or image. | Not run |
+| V03: Value scaling | Inspect the relevant artifact and run one normal case plus one boundary case. | Source revision, inputs, expected result, observed result and log or image. | Not run |
+| V04: TFT gauge | Inspect the relevant artifact and run one normal case plus one boundary case. | Source revision, inputs, expected result, observed result and log or image. | Not run |
+
+## Project-specific checks
+
+- Verify or recover: Board type.
+- Verify or recover: SPI pin map.
+- Verify or recover: Graphics library versions.
+- Verify or recover: Source sketch and display photos.
+
+## Reporting rule
+
+Report units, sample size, configuration, error bounds and failures. Separate a simulation result from a hardware result. Separate an emulator check from a physical-device check. A screenshot alone does not establish numerical accuracy.
