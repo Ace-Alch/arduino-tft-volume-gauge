@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Arduino TFT Volume Gauge project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/arduino-tft-volume-gauge.webp" width="100%" alt="arduino-tft-volume-gauge — concept artwork">
 
 # Arduino TFT Volume Gauge
 
